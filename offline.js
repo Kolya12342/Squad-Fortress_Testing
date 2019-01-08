@@ -1,0 +1,29 @@
+﻿{
+	"version": 1546949958,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/ak_1-sheet0.png",
+		"images/ingots_sprite-sheet0.png",
+		"images/lvl_bar-sheet0.png",
+		"images/sprite15-sheet0.png",
+		"images/lvl_barr-sheet0.png",
+		"images/background-sheet0.png",
+		"images/cool_1-sheet0.png",
+		"images/sprite21-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/sprite9-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"Photon-Javascript_SDK.min.js",
+		"xd_connection.js"
+	]
+}
